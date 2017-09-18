@@ -9,3 +9,5 @@ Some Git related stuffs
 Added new branch called angular-demo
 
 added git readme
+
+Added style guide line
